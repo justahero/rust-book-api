@@ -1,0 +1,6 @@
+[package]
+name = "hello-api"
+version = "0.1.0"
+authors = ["Sebastian Ziebell <sebastian.ziebell@asquera.de>"]
+
+[dependencies]
