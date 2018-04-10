@@ -39,3 +39,8 @@ To compile and run the application, execute:
 ```shell
 cargo run
 ```
+
+
+## Resources
+
+* [How to use Diesel ORM in Rust](http://spejss.com/index.php/2017/12/06/how-to-use-diesel-orm-in-rust/)
